@@ -241,4 +241,4 @@ This repository serves as the official landing page for Wiseplay. The software i
 **Get the most recent version of Wiseplay today!**
 
 ---
-**Last updated:** 2026-10-07 20:17:17 UTC
+**Last updated:** 2026-10-08 00:32:31 UTC
